@@ -1,4 +1,4 @@
-package w2.laboop;
+package w2.laboop.lab1;
 
 import java.util.Scanner;
 

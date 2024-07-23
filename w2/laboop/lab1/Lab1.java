@@ -1,4 +1,4 @@
-package w2.laboop;
+package w2.laboop.lab1;
 
 public class Lab1 {
     public static void main(String[] args) {
