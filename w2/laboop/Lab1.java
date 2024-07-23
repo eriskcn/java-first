@@ -5,5 +5,8 @@ public class Lab1 {
         Person hoangdz = new Person();
         hoangdz.inputDetails();
         hoangdz.displayDetails();
+
+        Person hoaihh = new Person("Dinh Thanh Hoai", 21, "Bang Liet");
+        hoaihh.displayDetails();
     }
 }
